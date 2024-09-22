@@ -1,12 +1,15 @@
 # FORBES-RICHEST-PEOPLE-ANALYSIS
 
 INTRODUCTION:
+
    The Project As "FORBES-RICHEST-PEOPLE-ANALYSIS" Using Python And EDA Cleaning Data And Modeling The Data And Analysis of FORBES RICHEST ANALYSIS.
    
 OVERVIEW:
+
    The dataset contains information about billionaires worldwide in 2022, including their names, ages, net worth, industries, and countries.
 
 KEY FINDINGS:
+
    Data Integrity: There are no missing values or duplicates in the dataset.
 
    Age Distribution: Most billionaires are between 50 and 70 years old.
@@ -24,8 +27,8 @@ KEY FINDINGS:
    Industry Dominance: Technology and Finance are the leading industries with the highest number of billionaires.
 
 CONCLUSION:
-   The analysis reveals important trends in age, net worth, and industry among billionaires, providing insights into global wealth distribution.
 
+   The analysis reveals important trends in age, net worth, and industry among billionaires, providing insights into global wealth distribution.
 
 
 
